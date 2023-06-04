@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/geektodolist/static/css/main.00c518ab.css",
+    "main.js": "/geektodolist/static/js/main.807c597a.js",
+    "index.html": "/geektodolist/index.html",
+    "main.00c518ab.css.map": "/geektodolist/static/css/main.00c518ab.css.map",
+    "main.807c597a.js.map": "/geektodolist/static/js/main.807c597a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00c518ab.css",
+    "static/js/main.807c597a.js"
+  ]
+}
